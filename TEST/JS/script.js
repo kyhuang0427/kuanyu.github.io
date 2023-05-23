@@ -1,0 +1,1 @@
+document.write("<h1>公館發瘋刀客</h1>");
